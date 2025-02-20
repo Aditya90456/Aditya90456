@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 - 👯 I’m looking to collaborate on open-source projects.
 - 🤔 I’m looking for help with improving my skills in cloud computing.
 - 💬 Ask me about web development, JavaScript, and open-source contributions.
-- 📫 How to reach me: [aditya@example.com](mailto:aditya@example.com)
+- 📫 How to reach me: [aditya@example.com](mailto:adityabakshi1011@gmail.com)
 - ⚡ Fun fact: I love to travel and explore new cultures.
 
 ## 🛠️ Technologies & Tools
